@@ -1,1 +1,1 @@
-# Creating synthetic bias aware biological datasets for DL models
+# Creating synthetic privacy aware biological datasets for DL models
