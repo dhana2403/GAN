@@ -1,1 +1,1 @@
-# Creating synthetic bias aware biological datasets for AI model
+# Creating synthetic bias aware biological datasets for DL models
